@@ -4,4 +4,10 @@
     <string name="error_network">Something went wrong. Try again in a moment.</string>
     <string name="str_home">Home</string>
     <string name="str_product_list">Product List</string>
+    <string name="str_login_page">Login Page</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register</string>
 </resources>
