@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+#gradle/
+build/
+#gradlew
+gradlew.bat
+.DS_Store
+local.properties
+
+# Intellij
+.idea/
+*.iml
+*.iws
+atlassian-ide-plugin.xml
+gen-external-apklibs/
+out/
+
+# ---- Mac OS X
+.DS_Store?
+Icon?
+# Thumbnails
+._*

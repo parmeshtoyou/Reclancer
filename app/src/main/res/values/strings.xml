@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reclancer</string>
+    <string name="app_version">0.1</string>
+    <string name="error_network">Something went wrong. Try again in a moment.</string>
+    <string name="str_home">Home</string>
+    <string name="str_product_list">Product List</string>
+</resources>
